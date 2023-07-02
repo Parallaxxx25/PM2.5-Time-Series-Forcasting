@@ -10,3 +10,15 @@ Workspace : Google Colaboratory
 
 This Project is under AI Builders Season 3
 Learn more : https://ai-builders.github.io/
+
+@misc{olivares2022library_neuralforecast,
+    author={Kin G. Olivares and
+            Cristian Challú and
+            Federico Garza and
+            Max Mergenthaler Canseco and
+            Artur Dubrawski},
+    title = {{NeuralForecast}: User friendly state-of-the-art neural forecasting models.},
+    year={2022},
+    howpublished={{PyCon} Salt Lake City, Utah, US 2022},
+    url={https://github.com/Nixtla/neuralforecast}
+}
